@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "title": "Algebra Chapter 4 Review",
+      "description": "Review topics 4.1, 4.2, and 4.3 for Algebra Chapter 4.",
+      "deadline": "2024-11-21T00:00:00.000+00:00",
+      "dailyTimeCommitment": "120",
+      "completed": false
+  },
+  {
+      "title": "CSP Chapter 3 Review Problems",
+      "description": "Complete 30 review problems for CSP Chapter 3.",
+      "deadline": "2024-11-20T00:00:00.000+00:00",
+      "dailyTimeCommitment": "60",
+      "completed": false
+  },
+  {
+      "title": "Health Science Presentation Slides",
+      "description": "Create and complete 30 slides for Health Science.",
+      "deadline": "2024-11-20T00:00:00.000+00:00",
+      "dailyTimeCommitment": "120",
+      "completed": false
+  },
+  {
+      "title": "SAT Workshop Prep Review",
+      "description": "Review SAT workshop prep material for 2 hours.",
+      "deadline": "2024-11-21T00:00:00.000+00:00",
+      "dailyTimeCommitment": "60",
+      "completed": false
+  }
+  ]
+}
